@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/kaflan/learnGIT/issues"
   },
-  "homepage": "https://github.com/kaflan/learnGIT#readme"
+  "homepage": "https://github.com/kaflan/learnGIT#readme",
+  "devDependencies": {
+    "gulp-server-livereload": "^1.8.0"
+  }
 }
